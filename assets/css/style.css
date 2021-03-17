@@ -1,0 +1,23 @@
+/*STYLESHEET FOR FRANK OCEAN FANPAGE*/
+
+/* background color */
+*{background-color: black}
+
+/* centering */
+.centeredHeader {
+    text-align: center;
+    color: orange
+}
+
+/* centering the image */
+.imageFrank {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+/* txt color */
+.whiteText {
+    color: white;
+    text-align: center}
